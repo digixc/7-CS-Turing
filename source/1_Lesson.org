@@ -116,8 +116,8 @@
 - For this project, we'll be using the Python 3 Programming language.
 - You've used Scratch before, which is a Graphical Programming Language. Python does the same sort of thing, but you program using text instead of blocks.
 - If you're working on this outside of school, you can download it from the following links.
-- [[https://www.python.org/ftp/python/3.4.2/python-3.4.2-macosx10.6.pkg][Python 3.4 for Mac]]
-- [[https://www.python.org/ftp/python/3.4.2/python-3.4.2.amd64.msi][Python 3.4 for Windows]]
+- [[https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.6.pkg][Python 3.7.3 for Mac]]
+- [[https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64-webinstall.exe][Python 3.7.3 for Windows]]
 - If you need Python 3 for Linux - use your package manager =sudo apt-get update && sudo apt-get install python3 idle3= (on Ubuntu for instance)
 - If you're working in school, then you should find a program called Thonny, inside the computing folder on the desktop.
 ** Try It
@@ -176,9 +176,9 @@ fourthFriendName = 'Eve'
 - Here are the rules for Python's Variable Identifiers:
   1. Must not start with a number.
   2. Must not contain symbols like !, @, #, $, % etc.
-  3. Must not contain spaces (use =_= or =-= instead)
+  3. Must not contain spaces (use =_= instead)
   4. Are case sensitive (=myname=, =myName=, =MyName= and =MYNAME= would all be different variable identifiers.)
-- There's also a few words you should avoid for identifiers, like =not= and =continue=, but you'll learn these as you go along.
+- There's also a few reserved words you should avoid for identifiers, like =not= and =continue=, but you'll learn these as you go along.
 ** Code It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: code
