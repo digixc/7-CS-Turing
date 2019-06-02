@@ -185,6 +185,12 @@ foo = 5
 - Lastly, when we reassign =foo= the value of 5, a second box (in this case box 8) has 5 stored in it and =foo='s card is altered to now point to the new box.
 [[file:img/tape4.jpg]]
 - We can see that bar is still pointing to the value in address 4, which is the number 10.
+
+** Understanding check
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: check
+:END:
+- Click [[./Variable-Assessment-withAnswers.html][here]] to check your understanding of variables
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
