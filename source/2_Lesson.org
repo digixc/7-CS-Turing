@@ -190,7 +190,7 @@ foo = 5
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: check
 :END:
-- Click [[./Variable-Assessment-withAnswers.html][here]] to check your understanding of variables
+- Click [[./Variable-Assessment.html][here]] to check your understanding of variables
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
